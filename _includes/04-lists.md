@@ -1,3 +1,3 @@
-palm_tree
+ - palm_tree
 
-christmas_tree
+ - christmas_tree
