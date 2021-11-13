@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+palm_tree
+
+christmas_tree
